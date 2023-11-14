@@ -83,7 +83,7 @@ server <- function(input, output){
   })
   
   output$demooutput <- renderPlot({
-    ggplot(dataset, aes(x = .data[[input$demoinput]],fill = "HadHeartAttack")) +
+    ggplot(dataset, aes(x = .data[[input$demoinput]],fill = HadHeartAttack)) +
       geom_bar() +
       labs(fill = "Heart Attack") + 
       theme(
@@ -93,7 +93,7 @@ server <- function(input, output){
   })
   
   output$genoutput <- renderPlot({
-    ggplot(dataset, aes(x = .data[[input$geninput]],fill = "HadHeartAttack")) +
+    ggplot(dataset, aes(x = .data[[input$geninput]],fill = HadHeartAttack)) +
       geom_bar() +
       labs(fill = "Heart Attack") + 
       theme(
