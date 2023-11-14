@@ -1,0 +1,52 @@
+body {
+  background:  #e3cece;
+}
+
+#Header {
+  margin: 20px;
+  padding:10px;
+ border-radius: 38px;
+background: #e3cece;
+box-shadow:  20px 20px 60px #c1afaf,
+             -20px -20px 60px #ffeded;
+  display:flex;
+  flex-flow: row nowrap;
+  justify-content:space-evenly ;
+}
+
+#demographic {
+  margin: 20px;
+  padding:10px;
+  border-radius: 38px;
+background: #e3cece;
+box-shadow:  20px 20px 60px #c1afaf,
+             -20px -20px 60px #ffeded;
+}
+
+#general-health {
+  margin: 20px;
+  padding:10px;
+ border-radius: 38px;
+background: #e3cece;
+box-shadow:  20px 20px 60px #c1afaf,
+             -20px -20px 60px #ffeded;
+}
+
+#respiratory-system {
+ margin: 20px;
+  padding:10px;
+  border-radius: 38px;
+background: #e3cece;
+box-shadow:  20px 20px 60px #c1afaf,
+             -20px -20px 60px #ffeded;
+}
+
+#disease {
+ margin: 20px;
+  padding:10px;
+  border-radius: 38px;
+background: #e3cece;
+box-shadow:  20px 20px 60px #c1afaf,
+             -20px -20px 60px #ffeded;
+}
+
