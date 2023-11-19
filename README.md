@@ -2,10 +2,13 @@
 #### Note:- Try this in Brave Browser 
 --------------------------------------------- 
 ### Use as webapp 
-![Web app](web.mp4) 
+<video src="web.mp4" controls="controls" style="height: 200; width:250;">
+</video>
 
 ### Use as Desktop app 
-![Desktop app](desktop.mp4) 
+<video src="desktop.mp4" controls="controls" style="height: 200; width:250;">
+</video>
 
 ### Use as mobile app 
-![Mobile app](As-mobileapp.mp4) 
+<video src="As-mobileapp.mp4" controls="controls" style="height: 200; width:250;">
+</video>
