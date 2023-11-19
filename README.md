@@ -1,11 +1,11 @@
 # Heart-Attack-Dataset
-#### Note:- Try this in Brave Browser <br>
---------------------------------------------- <br>
-### Use as webapp <br>
-![Web app](web.mp4) <br>
+#### Note:- Try this in Brave Browser 
+--------------------------------------------- 
+### Use as webapp 
+![Web app](web.mp4) 
 
-### Use as Desktop app <br>
-![Desktop app](desktop.mp4) <br>
+### Use as Desktop app 
+![Desktop app](desktop.mp4) 
 
-### Use as mobile app <br>
-![Mobile app](As-mobileapp.mp4) <br>
+### Use as mobile app 
+![Mobile app](As-mobileapp.mp4) 
